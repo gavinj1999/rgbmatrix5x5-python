@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 import time
-
 from rgbmatrix5x5 import RGBMatrix5x5
 
 print("""
